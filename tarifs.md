@@ -3,7 +3,7 @@ title: "Tarifs"
 order: 3
 in_menu: true
 ---
-# Transmission
+## Transmission
 
 Réglage dérailleur	                                : 15€  
 Changement cassette	                                : 20€  
@@ -17,7 +17,7 @@ Changement pédalier	                                : 25€
 Changement/redressage patte de dérailleur	: 23€  
 Réglage boîtier de pédalier	                        : 20€  
 
-# Freinage  
+## Freinage  
 
 Réglage frein	                                        : 15€  
 Changement câble/gaine	                        : 20€  
@@ -29,7 +29,7 @@ Changement levier ou durite de frein hydro	: 45€
 Changement levier route	                        : 35€  
 Purge hydraulique	                                : 30€  
  
-# Roues
+## Roues
 
 Changement pneu/chambre à air	                : 12€  
 Dévoilage	                                                : 20€  
@@ -39,13 +39,13 @@ Montage tubeless	                                : 30€
 réglage moyeu                                            : 20€  
 graissage moyeu	                                        : 30€  
 
-# Direction
+## Direction
 
 Réglage jeu de direction	                        : 12€  
 Changement de jeu de direction                    : 30€  
 Changement fourche                                   : 45€  
 
-# Accessoires
+## Accessoires
 
 Changement poignées	                                 : 10€  
 Pose sonnette	                                         : 5€  
@@ -57,14 +57,14 @@ Changement pédales	                                 : 10€
 Changement selle	                                 : 15€  
 Installation Followme	                                 : 60€  
 
-# Suppléments
+## Suppléments
 
 Supplément passage interne                          : 10€  
 Supplément carter                                        : 10€  
 Supplément gros pneu (>2.5¨)                        : 10€   
 Supplément moyeu à vitesses/moteur             : 15€  
  
-# Forfaits
+## Forfaits
 
 Forfait sécurité                                            : 40€  
     (Diagnostique du vélo, serrage des points de sécurité, réglage léger des freins, gonflage des pneus)  
@@ -76,7 +76,7 @@ Mise en service vélo internet	                  : 100€
 Montage vélo	                                          : sur devis  
 Tarif horaire                                                 : 65€  
 
-# Déplacement
+## Déplacement
 
 Déplacement Vaise, Industrie, Gorge de Loup, Champvert, quais de Saône  : 15€  
 Déplacement Croix-rousse, Lyon 5, presqu’ile, Tassin, Ecully                      : 30€  
