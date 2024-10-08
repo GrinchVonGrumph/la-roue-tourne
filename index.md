@@ -7,5 +7,5 @@ in_menu: true
 
 # La Roue Tourne
 
-Mécanicien **diplômé**, je vous propose d'entretenir et réparer vos vélos à domicile, au bureau ou sur votre trajet.
+Mécanicien **diplômé**, je vous propose d'entretenir et réparer vos vélos à domicile, au bureau ou sur votre trajet.  
 Je peux également vous accompagner pour la modification d'un vélo ou un montage à la carte selon vos besoins. 
