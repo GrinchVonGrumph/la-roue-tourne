@@ -1,9 +1,7 @@
 ---
-title: Contact
+title: "Contact"
 order: 1
+in_menu: true
 ---
-
-L'Échappée Belle est actuellement composée de 6 membres.
-
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+Vous pouvez me contacter par mail : [contact@larouetourne.net](mailto:contact@larouetourne.net) ou par téléphone au 06.63.59.67.22
+` 
