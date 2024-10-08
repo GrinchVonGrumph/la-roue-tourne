@@ -3,6 +3,7 @@ title: "Tarifs"
 order: 3
 in_menu: true
 ---
+![picto dérailleur de vélo]({% link images/derailleur.png %})
 ### Transmission
 
 Réglage dérailleur	                                : 15€  
@@ -17,6 +18,7 @@ Changement pédalier	                                : 25€
 Changement/redressage patte de dérailleur	: 23€  
 Réglage boîtier de pédalier	                        : 20€  
 
+![picto frein de vélo]({% link images/frein.png %})
 ### Freinage  
 
 Réglage frein	                                        : 15€  
@@ -29,6 +31,7 @@ Changement levier ou durite de frein hydro	: 45€
 Changement levier route	                        : 35€  
 Purge hydraulique	                                : 30€  
  
+![picto roue de vélo]({% link images/roue.png %})
 ### Roues
 
 Changement pneu/chambre à air	                : 12€  
@@ -39,13 +42,14 @@ Montage tubeless	                                : 30€
 réglage moyeu                                            : 20€  
 graissage moyeu	                                        : 30€  
 
+![picto jeu de direction]({% link images/direction2.png %})
 ### Direction
 
 Réglage jeu de direction	                        : 12€  
 Changement de jeu de direction                    : 30€  
 Changement fourche                                   : 45€  
 
-### Accessoires
+![picto pédales]({% link images/accessoires.png %})### Accessoires
 
 Changement poignées	                                 : 10€  
 Pose sonnette	                                         : 5€  
@@ -64,6 +68,7 @@ Supplément carter                                        : 10€
 Supplément gros pneu (>2.5¨)                        : 10€   
 Supplément moyeu à vitesses/moteur             : 15€  
  
+![picto cadre de vélo]({% link images/cadre.png %})
 ### Forfaits
 
 Forfait sécurité                                            : 40€  
