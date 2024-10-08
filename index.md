@@ -3,7 +3,7 @@ title: "Présentation"
 order: 0
 in_menu: true
 ---
-![Logo La Roue Tourne]({% link images/Logo LRT_final.png %})
+![Logo La Roue Tourne]({% link images/Logo LRT_300.png %})
 
 # La Roue Tourne
 
