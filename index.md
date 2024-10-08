@@ -7,5 +7,5 @@ in_menu: true
 
 # La Roue Tourne
 
-
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**. 
+Mécanicien **diplômé**, je vous propose d'entretenir et réparer vos vélos à domicile, au bureau ou sur votre trajet.
+Je peux également vous accompagner pour la modification d'un vélo ou un montage à la carte selon vos besoins. 
