@@ -1,5 +1,5 @@
 ---
-title: "Présentation"
+title: "Accueil"
 order: 0
 in_menu: true
 ---
@@ -8,4 +8,6 @@ in_menu: true
 # La Roue Tourne
 
 Mécanicien **diplômé**, je vous propose d'entretenir et réparer vos vélos à domicile, au bureau ou sur votre trajet.  
-Je peux également vous accompagner pour la modification d'un vélo ou un montage à la carte selon vos besoins. 
+Quelque soit l'âge de votre vélo, j'interviens sur l'intégralité des vélos hors partie motorisation électrique et suspensions.  
+
+Je peux également vous accompagner pour des évolutions sur votre vélo (amélioration de la transmission, du freinage...), pour un montage à la carte selon vos besoins ou le montage de roues artisanales. 
